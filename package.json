@@ -1,0 +1,31 @@
+{
+  "name": "react-node-bird",
+  "version": "1.0.0",
+  "description": "제로초의 강의 리액트 노드버드를 따라한다. Next.js를 사용하여 서버사이드 렌더링을 구현해본다. 리덕스를 사용한다. 백엔드 서버를 만들어 본다. AWS에 배포해 본다.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhuikim/React-Node-Bird.git"
+  },
+  "author": "uhui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uhuikim/React-Node-Bird/issues"
+  },
+  "homepage": "https://github.com/uhuikim/React-Node-Bird#readme",
+  "dependencies": {
+    "next": "^9.5.5",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}
