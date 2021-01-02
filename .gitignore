@@ -135,6 +135,4 @@ sketch
 *.code-workspace
 
 
-node_modules
-dist/*
-*.log
+*node_modules/*
